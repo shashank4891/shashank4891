@@ -1,15 +1,15 @@
 <img align="center" alt="banner" width="inherit" src="https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1698883200&v=beta&t=s5dzeckUC08Jo-VEqY3xEdOMcE5oXKOfU-CKKK5F-gA">
 <h1 align="center">Hi 👋, I'm Shashank Sinha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank4891&label=Profile%20views&color=0e75b6&style=flat" alt="shashank4891" /> </p>
 
-- 🔭 I’m currently working on **Meals app**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, ExpressJS, MongoDB, MySQL**
 
 - 📫 How to reach me **shashanksinha45@gmail.com**
 
